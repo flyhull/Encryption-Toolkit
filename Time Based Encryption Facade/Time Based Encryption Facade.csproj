@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Time_Based_Encryption_Facade</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mime-Detective" Version="24.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common Support\Common Support.csproj" />
+    <ProjectReference Include="..\Facade Support\Facade Support.csproj" />
+    <ProjectReference Include="..\Time Based Encryption\Time Based Encryption.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -10,6 +10,6 @@ Sample applications:
 a) A demo
 b) A password vault 
 
-It us encumbered for commercial use:
-a) Based on company size, Image Sharp may require a developer license per https://sixlabors.com/pricing/
+It is encumbered for commercial use:
+a) Based on company size, Image Sharp may require a developer license per https://sixlabors.com/pricing/ and 
 b) Mime Detective requires a license for commercial use per https://github.com/MediatedCommunications/Mime-Detective?tab=readme-ov-file

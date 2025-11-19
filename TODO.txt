@@ -2,3 +2,6 @@
 Write disposers
 Add comments
 Use pinned objects
+Double-encrypt to obscure file signatures
+Derive sub-keys using HMAC
+Record cryption timestamps in result
